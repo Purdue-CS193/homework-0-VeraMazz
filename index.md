@@ -1,10 +1,10 @@
 # Vera Mazzetta's First CS193 Homework 
 ## Welcome to GitHub Pages
 
-- You learn how to acess all the resources Purdue has.
-- Effective homework, not busy work!
-- Fun slides.
-- Teaching staff that is enthusiastic and passionate. 
+- You learn how to access all the resources Purdue has.
+- The homework is effective, and is not busy work!
+- The slides and classes are fun and engaging. 
+- The student teaching staff is enthusiastic and passionate. 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
